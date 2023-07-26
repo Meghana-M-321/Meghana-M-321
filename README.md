@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Meghana-M-321
 - 👀 I’m interested in DBS
-- 🌱 I’m currently learning Computer science and engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 🌱 I’m currently learning Computer science and engineering.
+
 
 <!---
 Meghana-M-321/Meghana-M-321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
