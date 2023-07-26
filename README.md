@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Meghana-M-321
-- 👀 I’m interested in DBS
+- Hi, I'm Meghana-M-321
 - 🌱 I’m currently learning Computer science and engineering.
 
 
